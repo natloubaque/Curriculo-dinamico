@@ -1,0 +1,81 @@
+.navbar {
+  background-color: #63B4B8;
+  padding: 30px 10px;
+  }
+
+.navbar-brand {
+  font-size: 3rem;
+  color: #4B3869;
+}
+
+.cta-nav {
+  font-size: 1.5rem;
+  color: #4B3869;
+}
+
+a {
+  color: #4B3869;
+}
+
+body {
+  background-color: #A9E4D7;
+  color: #664E88;
+}
+
+.nome {
+  font-size: 4rem;
+  padding-bottom: 0;
+}
+
+.endereco {
+  font-size: 1rem;
+  color: #4B3869;
+}
+
+.sobre {
+  padding-top: 20px;
+}
+
+h1 {
+  color: #4B3869;
+  padding: 10px 0;
+}
+
+h2 {
+  color: #4B3869;
+  padding: 10px 0;
+}
+
+h3 {
+  color: #4B3869;
+  padding: 10px 0;
+}
+
+.subheading {
+  padding-bottom: 10px;
+}
+
+.i-icons {
+margin: 0 1rem 1rem;
+color: #664E88;
+}
+
+.icone {
+  color: #4B3869;
+  margin-right: 3rem;
+  margin-bottom: 2rem;
+}
+
+.icone:hover {
+  color: #664E88;
+}
+
+.icons {
+  padding: 20px 0 0 0;
+}
+
+.footer {
+  background-color: #63B4B8;
+  text-align: center;
+  padding: 20px 0;
+}
